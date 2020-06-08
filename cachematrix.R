@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
- 
 ## This function create a special matrix object to cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
     i<- NULL
